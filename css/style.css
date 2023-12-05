@@ -11,3 +11,8 @@
 /* 
     GENERAL
 */
+.width{
+    margin: 10px;
+    min-height: 150px;
+    width: 150px;
+}
